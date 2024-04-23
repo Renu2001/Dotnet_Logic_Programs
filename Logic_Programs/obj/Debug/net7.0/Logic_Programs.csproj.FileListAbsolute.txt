@@ -1,0 +1,14 @@
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\bin\Debug\net7.0\Logic_Programs.exe
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\bin\Debug\net7.0\Logic_Programs.deps.json
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\bin\Debug\net7.0\Logic_Programs.runtimeconfig.json
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\bin\Debug\net7.0\Logic_Programs.dll
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\bin\Debug\net7.0\Logic_Programs.pdb
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\Logic_Programs.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\Logic_Programs.AssemblyInfoInputs.cache
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\Logic_Programs.AssemblyInfo.cs
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\Logic_Programs.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\Logic_Programs.dll
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\refint\Logic_Programs.dll
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\Logic_Programs.pdb
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\Logic_Programs.genruntimeconfig.cache
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\ref\Logic_Programs.dll
