@@ -12,3 +12,4 @@ D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\refint\Log
 D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\Logic_Programs.pdb
 D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\Logic_Programs.genruntimeconfig.cache
 D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\ref\Logic_Programs.dll
+D:\BridgeLabz Assignment\LogicProgram\Logic_Programs\obj\Debug\net7.0\Logic_Programs.sourcelink.json
